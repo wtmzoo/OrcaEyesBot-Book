@@ -20,3 +20,7 @@
 * [🦊 Привязка кошелька](functions/privyazka-koshelka.md)
 * [🤝 Реферальная программа](functions/referral\_program.md)
 * [🧊 Заморозка токенов](functions/freeze\_tokens.md)
+
+## 🔘 Buttons
+
+* [🛒 Кнопка "Продукты"](buttons/knopka-produkty.md)
