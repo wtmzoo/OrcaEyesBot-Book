@@ -24,3 +24,5 @@
 ## 🔘 Buttons
 
 * [🛒 Кнопка "Продукты"](buttons/knopka-produkty.md)
+* [✍ Кнопка "Подписки на каналы"](buttons/knopka-podpiski-na-kanaly.md)
+* [Кнопка "Личный кабинет"](buttons/knopka-lichnyi-kabinet.md)
