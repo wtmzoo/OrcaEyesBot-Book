@@ -13,3 +13,13 @@ coverY: 0
 * Далее отправить в личные сообщения боту адрес Вашего кошелька в сети BSC.
 
 ## Где найти адрес кошелька
+
+Следующий пример будет приведён для кошелька MetaMask.
+
+{% hint style="info" %}
+MetaMask для браузера Chrome: [ссылка](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=ru)
+{% endhint %}
+
+Если кошелёк MetaMask не установлен, то следует установить его как расширение для браузера Google Chrome и следовать предлагаемым шагам для получения своего кошелька.
+
+&#x20;
