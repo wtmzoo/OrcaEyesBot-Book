@@ -20,7 +20,7 @@ coverY: 0
 
 Данный пункт меню отвечает за отображение и возможную дальнейшую покупку привилегий в экосистеме Orca.
 
-<figure><img src="../.gitbook/assets/Screenshot_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/products_switch" alt=""><figcaption></figcaption></figure>
 
 При нажатии на любой из продуктов будет отображено меню покупки выбранной привилегии.
 
