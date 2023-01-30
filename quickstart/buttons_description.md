@@ -4,5 +4,5 @@ cover: ../.gitbook/assets/cover.jpg
 coverY: 0
 ---
 
-# 📜 Описание кнопок
+# 📜 Buttons description / Описание кнопок
 

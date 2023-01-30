@@ -4,5 +4,5 @@
 
 ## 🎯 Introduction
 
-* [💡 Quickstart / Быстрое начало](introduction/quickstart.md)
-* [📜 Buttons description / Описание кнопок](introduction/buttons\_description.md)
+* [💡 Quickstart / Быстрое начало](quickstart/start.md)
+* [📜 Buttons description / Описание кнопок](quickstart/buttons\_description.md)

@@ -7,7 +7,7 @@ coverY: 0
 
 ## Overview / Обзор
 
-OrcaEyes\_Bot – это бот, созданный на основе мессенджера Telegram и призванный облегчить работу с токеном Orca в сети BSC.
+OrcaEyes\_Bot – это бот, созданный на основе мессенджера Telegram, призванный облегчить работу с токеном Orca в сети BSC.
 
 ## What Is This Book For / Для чего эта книга
 
@@ -15,10 +15,10 @@ OrcaEyes\_Bot – это бот, созданный на основе мессе
 
 ## Quick Links / Быстрые ссылки
 
-{% content-ref url="introduction/quickstart.md" %}
-[quickstart.md](introduction/quickstart.md)
+{% content-ref url="quickstart/start.md" %}
+[start.md](quickstart/start.md)
 {% endcontent-ref %}
 
-{% content-ref url="introduction/buttons_description.md" %}
-[buttons\_description.md](introduction/buttons\_description.md)
+{% content-ref url="quickstart/buttons_description.md" %}
+[buttons\_description.md](quickstart/buttons\_description.md)
 {% endcontent-ref %}
