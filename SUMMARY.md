@@ -5,7 +5,6 @@
 ## 🎯 Introduction
 
 * [💡 Быстрое начало](quickstart/start.md)
-* [📜 Описание кнопок](quickstart/buttons\_description.md)
 
 ## 🏗 Functions
 
