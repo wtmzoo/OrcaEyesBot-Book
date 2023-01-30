@@ -7,22 +7,19 @@
 * [💡 Быстрое начало](quickstart/start.md)
 * [📜 Описание кнопок](quickstart/buttons\_description.md)
 
+## 🏗 Functions
+
+* [🦊 Привязка кошелька](functions/privyazka-koshelka.md)
+* [📥 Покупка токенов](functions/buy\_tokens.md)
+* [📥 Пополнение кошелька](functions/deposit.md)
+* [🛒 Покупка подписок](functions/pokupka-podpisok.md)
+* [🤝 Реферальная программа](functions/referral\_program.md)
+* [🧊 Заморозка токенов](functions/freeze\_tokens.md)
+* [📤 Отправка токенов](functions/otpravka-tokenov.md)
+* [📤 Вывод токенов](functions/withdrawal.md)
+
 ## 🛒 Products
 
 * [✨ Orca Vip](products/orca-vip.md)
 * [💎 Orca Trade](products/orca-trade.md)
 * [👑 Orca Nodes](products/orca-nodes.md)
-
-## 🏗 Functions
-
-* [📥 Пополнение кошелька](functions/deposit.md)
-* [📤 Вывод токенов](functions/withdrawal.md)
-* [🦊 Привязка кошелька](functions/privyazka-koshelka.md)
-* [🤝 Реферальная программа](functions/referral\_program.md)
-* [🧊 Заморозка токенов](functions/freeze\_tokens.md)
-
-## 🔘 Buttons
-
-* [🛒 Кнопка "Продукты"](buttons/knopka-produkty.md)
-* [✍ Кнопка "Подписки на каналы"](buttons/knopka-podpiski-na-kanaly.md)
-* [Кнопка "Личный кабинет"](buttons/knopka-lichnyi-kabinet.md)
