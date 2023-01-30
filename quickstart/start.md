@@ -40,7 +40,7 @@ coverY: 0
 
 Если после перехода по реферальной или прямой ссылке, чат-бот не отправил стартового сообщения, то в контекстном меню бота выберите команду /start, либо пропишите /start в приватный чат с ботом и отправьте сообщение.&#x20;
 
-<figure><img src="../.gitbook/assets/start_command.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_1.png" alt=""><figcaption></figcaption></figure>
 
 ### Ending / Завершение
 
