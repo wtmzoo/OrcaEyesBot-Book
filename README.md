@@ -15,12 +15,8 @@ OrcaEyes\_Bot – это бот, созданный на основе мессе
 
 ## Quick Links / Быстрые ссылки
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="quickstart/start.md" %}
+[start.md](quickstart/start.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
